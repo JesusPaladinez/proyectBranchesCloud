@@ -30,3 +30,9 @@ p {
     text-align: justify;
     margin: 2rem 0;
 }
+
+footer {
+    background-color: black;
+    color: #fff;
+    height: 20vh;
+}
